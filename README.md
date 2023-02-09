@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackhdewey
-- 👀 I’m interested in game engines, computational cognitive science, artificial intelligence, computer graphics, and web-based psychology experiments.
-- 🌱 I’m currently learning architectures and algorithms for building generative world models, fundamentals of computer vision, and development in Unity.
-- 💞️ I’m looking to collaborate on research in computerational cognitive science and game design.
+- 👀 I’m interested in game engines, artificial intelligence, computational cognitive science, computer graphics, and web-based psychology experiments.
+- 🌱 I’m currently learning architectures and algorithms for building game engines, fundamentals of computer vision, and development in Unity.
+- 💞️ I’m looking to collaborate on games and research in computational cognitive science.
 - 📫 How to reach me: jackhdewey@gmail.com
 
 <!---

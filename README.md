@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jackhdewey
 - 👀 I’m interested in computer vision, computer graphics, computational cognitive science, and games.
-- 🌱 I’m currently learning algorithms.
 - 💞️ I’m looking to collaborate on games and research in computational cognitive science.
 - 📫 How to reach me: jackhdewey@gmail.com
 

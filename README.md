@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackhdewey
-- 👀 I’m interested in artificial intelligence, computational cognitive science, game engines, and computer graphics.
-- 🌱 I’m currently learning C++, algorithms, game engine architectures, and computer vision.
+- 👀 I’m interested in computer vision, computer graphics, computational cognitive science, and games.
+- 🌱 I’m currently learning algorithms.
 - 💞️ I’m looking to collaborate on games and research in computational cognitive science.
 - 📫 How to reach me: jackhdewey@gmail.com
 

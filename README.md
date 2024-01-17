@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackhdewey
-- 👀 I’m interested in computational cognitive science, procedural content generation, and artificial intelligence.
+- 👀 I’m interested in probablistic generative modeling, procedural content generation, and artificial intelligence.
 - 💞️ I’m looking to collaborate on research.
 - 📫 How to reach me: jackhdewey@gmail.com
 
